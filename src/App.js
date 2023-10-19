@@ -1,9 +1,12 @@
-import React from 'react';
+import {Users} from "./Components/User";
+
 
 const App = () => {
+
+
     return (
         <div>
-            App
+            <Users/>
         </div>
     );
 };
