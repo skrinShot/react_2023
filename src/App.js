@@ -1,10 +1,15 @@
-import {Simpsons} from "./Components/SimpsonsContainer/Simpsons";
+// import {Simpsons} from "./Components/SimpsonsContainer/Simpsons";
+import {Characters} from "./Components/Characters/Characters";
 
 const App = () => {
 
     return (
         <div>
-            <Simpsons/>
+            {/*<Simpsons/>*/}
+
+
+
+            <Characters></Characters>
         </div>
     );
 };
