@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="027ad9e7-ab09-493d-b9eb-4b51ff893af2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/LaunchesContainer/Launch/Launch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LaunchesContainer/Launches/Launches.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostComponents/Post/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostComponents/PostSetails/PostSetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostComponents/Posts/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/urls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servises/jsonService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servises/launchService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servises/postService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servises/spaceXService.js" afterDir="false" />
+    <list default="true" id="027ad9e7-ab09-493d-b9eb-4b51ff893af2" name="Changes" comment="Edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LaunchesContainer/Launch/Launch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LaunchesContainer/Launch/Launch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LaunchesContainer/Launches/Launches.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LaunchesContainer/Launches/Launches.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostComponents/Post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostComponents/Post/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostComponents/PostSetails/PostSetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostComponents/PostSetails/PostSetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostComponents/Posts/Posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostComponents/Posts/Posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/servises/launchService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/servises/launchService.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +26,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XEV7JOGdeaB8NLyu0PmV1yKikj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -39,14 +43,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "HW__2",
-    "js.last.introduce.type": "CONST",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HW__2&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;CONST&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Edit">
+      <option name="closed" value="true" />
+      <created>1698111984525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698111984525</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027ad9e7-ab09-493d-b9eb-4b51ff893af2" name="Changes" comment="Edit" />
+      <created>1698194060027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698194060027</updated>
+      <workItem from="1698194062014" duration="1045000" />
+      <workItem from="1698278482875" duration="3465000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit" />
   </component>
 </project>
